@@ -6,7 +6,7 @@ collections:
     title: Posts
     output: true
     layout: post
-    author: Darcy
+    author: D'arcy
   uploads:
     title: Uploads
     output: true
