@@ -2,7 +2,7 @@
 title: Introducing an Archived Tale
 date: 2017-03-29 00:00:00 Z
 layout: post
-author: Chester
+author: Michael
 ---
 
 Archived tale is our blog. It is based on tale which is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [Chester How](https://github.com/chesterhow/) for a friend who writes short stories.
