@@ -2,10 +2,10 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          The Archived Tale
 paginate:       5
 baseurl:        ""
-url:            "https://chesterhow.github.io/tale"
+url:            "http://localhost:8855"
 
 # Assets
 sass:
@@ -16,10 +16,9 @@ sass:
 markdown:       kramdown
 
 # About
-author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+author:         
+  name:         The Archived Tale
+  url:          http://localhost:8855
 
 # Custom vars
 version:        3.4.1

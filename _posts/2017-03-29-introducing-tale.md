@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Introducing Tale"
+title:  "Introducing an Archived Tale"
 author: "Chester"
 ---
-
-Tale is minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
+Archived tale is our blog. It is based on tale which is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [Chester How](https://github.com/chesterhow/) for a friend who writes short stories.
 
 ## Tale features
 - Compatible with GitHub Pages
