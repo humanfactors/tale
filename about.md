@@ -1,8 +1,8 @@
 ---
 title: About
 permalink: "/about/"
-layout: post
 author: Michael
+layout: post
 ---
 
-Something I wrote.
+Something I wrote. It probably needs more information...
