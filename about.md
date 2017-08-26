@@ -1,8 +1,8 @@
 ---
+title: About
+permalink: "/about/"
 layout: post
-title: "About"
-author: "Michael"
-permalink: /about/
+author: Michael
 ---
 
 Something I wrote.
