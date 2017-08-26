@@ -1,5 +1,5 @@
 ---
-title: Digital Measurement, Modeling, Manufacturing and Telemetry
+title: Digital Scanning and Visualisations
 date: 2017-08-26 13:51:00 Z
 tags:
 - photogrammetry
@@ -10,6 +10,8 @@ layout: post
 ---
 
 Project proposal daft
+
+# Digital Measurement, Modeling, Manufacturing and Telemetry
 
 ## New Approaches to Archiving Art, Artefacts and Sacred Sites
 
