@@ -13,16 +13,16 @@ collections:
 permalink: "/:year-:month-:day/:title.html"
 paginate: 5
 baseurl: 
-url: http://archivedtale.s3-website-ap-southeast-2.amazonaws.com
+url: http://tale.siteleaf.com/
 sass:
   sass_dir: _sass
   style: compressed
 markdown: kramdown
 author:
   name: The Archived Tale
-  url: http://archivedtale.s3-website-ap-southeast-2.amazonaws.com
+  url: http://tale.siteleaf.com/
 version: 3.4.1
 github:
-  repo: https://github.com/chesterhow/tale
+  repo: https://github.com/humanfactors/tale
 gems:
 - jekyll-paginate
