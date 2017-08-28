@@ -60,16 +60,3 @@ While this technology will no doubt find use in the academy and research, public
 
 ![bodies.png](/uploads/bodies.png)
 Figure 3. Virtual model of an item of cultural value, a sculpture shown from various angles. This figure shows three rendered versions of the model with different “skins” one showing the colour and lighting of the original, one with no colouring but the decorations and detailing highlighted in high contrast and one showing the no colour or contrast, just the topology of the sculpture. The forth rendering shows a model with the colour and lighting of the original object from a different angle and with increased “zoom”.
-
-
-## Background
-
-D’Arcy Ellis is studying a Bachelor of Science at Charles Darwin University after transferring to a Bachelor’s of Environmental Science. Before coming to study at Charles Darwin University he worked in the construction industry for close to 4 years, and also in the farming sector for a short time.
-
-25 years old, born in Broome, Western Australia, his early childhood was spent living in remote communities in North Western W.A. before moving between various towns and cities throughout Western Australia in his late childhood, adolescence and early adulthood, he is currently based Darwin, the Northern Territory. An Australian citizen, though subsequently awarded a Lithuanian citizenship as part of a reparations scheme for the descendants of refugees and displaced persons in 2010. Now a dual citizen of both countries.
-
-A practicing artist, whose work has appeared in a number of shows and galleries, most notably exhibited in The Art Gallery of Western Australia in the 2009. Additionally, he has worked as a freelance graphic designer with work appearing in publications and projects across the country.
-
-His other current major research project is as the lead designer for the mHealth app emojifit. Working to develop both user interface and in-app communication tools, focusing on chronic disease care, prevention and education. An invited international speaker at the European Telehealth Conference (EHiN-FH / ETC 2016) in Oslo, Norway and the Steno Diabetes Centre in Copenhagen, Denmark discussing the potential that design and visual communication techniques offer the health sector in providing services in inter-cultural contexts and to low literacy individuals and communities.
-
-
