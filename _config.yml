@@ -1,0 +1,28 @@
+---
+title: The Archived Tale
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+    layout: post
+    author: Darcy
+  uploads:
+    title: Uploads
+    output: true
+permalink: "/:year-:month-:day/:title.html"
+paginate: 5
+baseurl: 
+url: http://archivedtale.s3-website-ap-southeast-2.amazonaws.com
+sass:
+  sass_dir: _sass
+  style: compressed
+markdown: kramdown
+author:
+  name: The Archived Tale
+  url: http://archivedtale.s3-website-ap-southeast-2.amazonaws.com
+version: 3.4.1
+github:
+  repo: https://github.com/chesterhow/tale
+gems:
+- jekyll-paginate
