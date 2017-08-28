@@ -13,14 +13,14 @@ collections:
 permalink: "/:year-:month-:day/:title.html"
 paginate: 5
 baseurl: 
-url: http://tale.siteleaf.com/
+url: http://tale.siteleaf.net/
 sass:
   sass_dir: _sass
   style: compressed
 markdown: kramdown
 author:
   name: The Archived Tale
-  url: http://tale.siteleaf.com/
+  url: http://tale.siteleaf.net/
 version: 3.4.1
 github:
   repo: https://github.com/humanfactors/tale
